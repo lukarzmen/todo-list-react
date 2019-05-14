@@ -1,0 +1,6 @@
+.todo-item{
+    display: inline-block;
+    justify-content: flex-start;
+    align-items: center;
+    
+  }
